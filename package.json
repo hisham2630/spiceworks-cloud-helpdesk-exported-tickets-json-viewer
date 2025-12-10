@@ -1,0 +1,16 @@
+{
+  "name": "spiceworks-ticket-viewer",
+  "version": "1.0.0",
+  "description": "Modern web UI for viewing Spiceworks helpdesk tickets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["spiceworks", "tickets", "viewer"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
